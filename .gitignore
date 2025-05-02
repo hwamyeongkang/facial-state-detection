@@ -1,0 +1,6 @@
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo "*.pyo" >> .gitignore
+echo ".vscode/" >> .gitignore
+echo "env/" >> .gitignore
+echo "*.log" >> .gitignore
